@@ -10,14 +10,8 @@ namespace задача
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
-            Console.WriteLine("exchage form 1/8");
-        Console.Write("Please enter your exchange: ");
-        string str = Console.ReadLine();
-        int cost = 0;
-=======
- 
-  int n;
+
+        int n;
 
         int[] arr = new int[8];
         for (n = 0; n < 8; n++)
@@ -33,7 +27,13 @@ namespace задача
         {
             Console.Write("{0} ", arr[n]);
         }
->>>>>>> dabc65be24b5adc27128a770515209d609dbd72d
+
+
+ Console.WriteLine("exchage form 1/8");
+        Console.Write("Please enter your exchange: ");
+        string str = Console.ReadLine();
+        int cost = 0;
+
 
         switch (str)
         {

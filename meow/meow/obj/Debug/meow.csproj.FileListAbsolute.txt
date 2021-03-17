@@ -1,0 +1,7 @@
+D:\School Projects and Work\1\probenstajtest1\meow\meow\bin\Debug\задача.exe.config
+D:\School Projects and Work\1\probenstajtest1\meow\meow\bin\Debug\задача.exe
+D:\School Projects and Work\1\probenstajtest1\meow\meow\bin\Debug\задача.pdb
+D:\School Projects and Work\1\probenstajtest1\meow\meow\obj\Debug\meow.csprojAssemblyReference.cache
+D:\School Projects and Work\1\probenstajtest1\meow\meow\obj\Debug\meow.csproj.CoreCompileInputs.cache
+D:\School Projects and Work\1\probenstajtest1\meow\meow\obj\Debug\задача.exe
+D:\School Projects and Work\1\probenstajtest1\meow\meow\obj\Debug\задача.pdb
