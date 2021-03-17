@@ -104,7 +104,13 @@ namespace задача
             }
         }
 
+bool endApp = false;
 
+        
+        if (Console.ReadLine() == "End" ) endApp = true;
+
+        Console.WriteLine("\n");
+        return;
 
         }
     }
